@@ -1,0 +1,8 @@
+print("enter a string")
+s=input()
+a=s.split()
+print("s=",s)
+print("a=",a)
+s=list(reversed(a))
+print("s=",s)
+print("a=",a)
